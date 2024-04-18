@@ -1,2 +1,2 @@
 # Random-Outfit
-Random Outfit generator
+Random Outfit Generator
